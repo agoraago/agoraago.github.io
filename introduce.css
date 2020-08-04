@@ -59,3 +59,33 @@ header {
 .header-right a:hover {
   background-color: rgba(192, 192, 192, 0.3);
 }
+
+.btn {
+  padding: 8px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+.lesson-wrapper {
+  padding-bottom: 80px;
+  padding-left: 5%;
+  padding-right: 5%;
+  background-color: #ffffff;
+  text-align: left;
+}
+
+.lesson {
+  float: left;
+  width: 25%;
+}
+
+.bezier-curve{
+  background-color: #239b76;
+}

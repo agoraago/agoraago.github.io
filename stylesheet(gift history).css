@@ -44,12 +44,12 @@ header {
 
 .header-right {
   float: right;
-  margin-right: -25px;
+  margin-right: 0px;
 }
 
 .header-right a {
   line-height: 65px;
-  padding: 0 25px;
+  padding: 0 0px;
   color: #CC66FF;
   display: block;
   float: left;
